@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Claye1
+- 👋 Hi, I’m @Claye
 - 👀 I’m interested in Cloud Computing, Web 3.0 and Information Security 
 - 🌱 I’m currently learning Cloud Computing 
 - 💞️ I’m looking to collaborate on a lot of learning projects
