@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Claye1
-- 👀 I’m interested in Information Security and Data Analytics
-- 🌱 I’m currently learning Information Security 
+- 👀 I’m interested in Cloud Computing, Web 3.0 and Information Security 
+- 🌱 I’m currently learning Cloud Computing 
 - 💞️ I’m looking to collaborate on a lot of learning projects
 - 📫 How to reach me clayestephen@gmail.com
 
