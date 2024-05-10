@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Claye1
-- 👀 I’m interested in Cloud Computing, Web 3.0 and Information Security 
-- 🌱 I’m currently learning Cloud Computing 
-- 💞️ I’m looking to collaborate on a lot of learning projects
-- 📫 How to reach me clayestephen@gmail.com
+👋 Hello there! I'm passionate about AI and Data Analytics, constantly exploring new projects and learning along the way on my journey towards becoming a Data Head.
 
-<!---
-Claye1/Claye1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently, I'm diving into diverse projects, honing my skills in machine learning, data analysis, and predictive modeling. From implementing cutting-edge algorithms to extracting actionable insights, I thrive on the challenges that come with real-world data.
+
+💡 Seeking opportunities to collaborate, innovate, and contribute to impactful projects in the AI and data space. Let's connect and explore the possibilities of shaping the future through data-driven solutions!
+
+🔧 Tech Stack: Python, TensorFlow, scikit-learn, Pandas, NumPy, SQL, Tableau
+
+📚 Always learning, always growing. Excited to see where the data-driven journey takes us next!
+
